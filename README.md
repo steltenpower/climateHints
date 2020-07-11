@@ -6,3 +6,5 @@ Advertisements on-line, on TV, on physical billboards and in-shop is mostly aime
 And for those thinking none of that is necessary: https://twitter.com/IamHappyToast/status/1246033612790784001
 
 https://mobile.twitter.com/steltenpower/status/1261374372155199488
+
+A related nice app: https://t.co/POIQecP6H3?amp=1
