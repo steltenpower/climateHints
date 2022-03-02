@@ -16,3 +16,5 @@ And for those thinking none of that is necessary: https://twitter.com/IamHappyTo
 https://mobile.twitter.com/steltenpower/status/1261374372155199488
 
 A related nice app: https://t.co/POIQecP6H3?amp=1
+
+Let's also change the language on things: https://github.com/steltenpower/ChangeLang/blob/main/README.md
