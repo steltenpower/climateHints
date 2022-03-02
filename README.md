@@ -1,7 +1,8 @@
 # climateHints
 Any website or advertisement can come with context-specific information on how to improve your behaviour climate-wise.
-Technically that's done by using [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
+Technically that's done by using [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)/GreaseMonkey/ViolentMonkey
 Organisationally that's done by having all sorts of climate organisations offer a catalogue of the business rules (aka userscripts)
+Through Google Lens you can also in a physical store, etc.
 <img src="https://repository-images.githubusercontent.com/235600601/767d3980-7a2c-11eb-9ea8-9ea786a9cdaf">
 
 Advertisements on-line, on TV, on physical billboards and in-shop is mostly aimed at brainwashing you to buy stuff you don't need and make that as easy as possible. What if we bend these into the good way? How to use what you have? Who in YOUR neighborhood can help you? Where can you get an alternative? What's the reasoning behind it?
